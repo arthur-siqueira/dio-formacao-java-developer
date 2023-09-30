@@ -1,2 +1,2 @@
 # dio-formacao-java-developer
-Repositório para exemplos da formação Java Developer da DIO
+Repositório para exemplos da Formação Java Developer da DIO
