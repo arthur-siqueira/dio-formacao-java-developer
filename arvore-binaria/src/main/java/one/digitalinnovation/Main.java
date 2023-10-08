@@ -22,7 +22,6 @@ public class Main {
         minhaArvore.exibirInOrdem();
         minhaArvore.exibirPreOrdem();
         minhaArvore.exibirPosOrdem();
-
     }
 
 }
