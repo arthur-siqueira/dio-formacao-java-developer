@@ -1,4 +1,4 @@
-package one.digitalinnovation;
+package edu.collections.lista;
 
 import java.util.*;
 
